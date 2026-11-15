@@ -1,5 +1,5 @@
 # Stacking_1Darray
-Python program that loads animal and colour names from text files into two fixed-capacity stacks, then pops and prints
+Python program that loads animal and colour names from text files into two stacks, then pops and prints
 
 Here the result:
 
